@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.81bde610.css",
-    "main.js": "/static/js/main.14a74cb0.js",
+    "main.js": "/static/js/main.c374f369.js",
+    "static/media/letdy.png": "/static/media/letdy.e0f4608d9671f496234f.png",
     "static/media/letdy_logo_white.png": "/static/media/letdy_logo_white.13ead73000e162c24ee3.png",
     "index.html": "/index.html",
     "main.81bde610.css.map": "/static/css/main.81bde610.css.map",
-    "main.14a74cb0.js.map": "/static/js/main.14a74cb0.js.map"
+    "main.c374f369.js.map": "/static/js/main.c374f369.js.map"
   },
   "entrypoints": [
     "static/css/main.81bde610.css",
-    "static/js/main.14a74cb0.js"
+    "static/js/main.c374f369.js"
   ]
 }
