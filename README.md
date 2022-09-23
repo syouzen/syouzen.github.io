@@ -1,0 +1,1 @@
+# syouzen.github.io
